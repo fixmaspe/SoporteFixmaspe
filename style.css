@@ -1,9 +1,7 @@
-
-
 body {
     background-image: url("./image/88bb.jpg");
     background-repeat: no-repeat;
-    background-size:contain;
+    background-size: contain;
 
 
 }
@@ -17,9 +15,10 @@ h1 {
 
 
 * {
-    font-family:system-ui, -apple-system,"Consolas" , "Open Sans", Roboto, Lato,Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Roboto" ,system-ui, -apple-system, "Consolas", "Open Sans", Roboto, Lato, Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    font-size: 18px; 
+    font-size: 18px;
 
-};
+}
 
+;
