@@ -17,10 +17,9 @@ h1 {
 
 
 * {
-    font-family: system-ui, -apple-system, Consolas, Roboto, Lato,Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family:system-ui, -apple-system,Consolas , Roboto, Lato,Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
-    font-size: 20px;
+    font-size: 18px; 
 
-}
+};
 
-;
