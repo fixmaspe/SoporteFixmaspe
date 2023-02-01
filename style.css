@@ -1,0 +1,26 @@
+
+
+body {
+    background-image: url("./image/88bb.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+
+
+}
+
+h1 {
+    font-size: xx-large;
+
+
+}
+
+
+
+* {
+    font-family: system-ui, -apple-system, Consolas, Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+;
