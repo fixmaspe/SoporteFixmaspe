@@ -1,0 +1,3 @@
+
+
+En línea se refiere a un estilo de escritura en el que los elementos de la oración se separan con espacios en lugar de usar signos de puntuación. Esto significa que cada palabra se escribe en su propia línea, sin usar comas, puntos o otros signos para separarlas. Esta forma de escritura es comúnmente utilizada para publicar contenido en línea, como artículos y blogs, porque es más fácil de leer y entender.
