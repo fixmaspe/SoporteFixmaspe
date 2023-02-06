@@ -8,14 +8,10 @@ body {
 
 h1 {
     font-size: xx-large;
-
-
 }
 
-
-
 * {
-    font-family: 'Ubuntu', sans-serif,'Roboto Mono', monospace,
+    font-family: 'Ubuntu', sans-serif, 'Roboto Mono', monospace,
         "Roboto", system-ui, -apple-system, "Consolas", "Open Sans", Roboto, Lato, Cantarell, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
     font-size: 18px;
